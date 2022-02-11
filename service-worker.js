@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8a1bce4907e95f2da55c7bf28450ae91.js"
+  "/precache-manifest.2ca672d43aa67361d211ba4d5afdc6c4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "oca-admin"});
